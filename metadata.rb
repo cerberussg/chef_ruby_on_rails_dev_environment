@@ -1,4 +1,4 @@
-name 'ruby_on_rails_with_passenger_dev_environment'
+name 'ruby_on_rails_dev_environment'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
